@@ -1,2 +1,2 @@
-# LSK-
+# LSK
 notre projet GIT 
