@@ -1,0 +1,24 @@
+sudo apt install git-all  
+git clone https://github.com/Salem-Sahmimi/LSK.git
+cd LSK
+
+mkdir CSS
+cd CSS
+touch style.css   
+nano style.css  
+
+mkdir Mes commandes
+cd Mes commandes 
+touch cmd.txt
+nano cmd.txt
+
+git branch -a 
+git checkout -b CSS  
+git status  
+git add .
+
+git config user.email "ahmedsahmimi43@gmail.com"  
+git config user.name "Salem-Sahmimi"  
+git commit -m "css 0.1"  
+
+git push origin CSS  
