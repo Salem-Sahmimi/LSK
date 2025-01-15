@@ -19,7 +19,7 @@ Pour cloner le dépôt et exécuter le projet localement, suivez ces instruction
 git clone https://github.com/nom-utilisateur/nom-du-projet.git
 cd nom-du-projet
 Ensuite, ouvrez le fichier index.html dans votre navigateur pour voir le site.
-
+```
 Utilisation
 Le site web est conçu pour être réactif et fonctionne sur divers appareils, y compris les mobiles et les ordinateurs de bureau. Chaque section du site a été développée et stylisée selon les meilleures pratiques modernes.
 
