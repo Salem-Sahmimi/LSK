@@ -1,4 +1,4 @@
-# Je me déplace dans le répertoire Documents pour cloner le répertoire public de Salem LSK:  
+ Je me déplace dans le répertoire Documents pour cloner le répertoire public de Salem LSK:  
 
 - ls
 - cd Documents
