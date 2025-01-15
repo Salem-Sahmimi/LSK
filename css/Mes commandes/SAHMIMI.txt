@@ -22,3 +22,7 @@ git config user.name "Salem-Sahmimi"
 git commit -m "css 0.1"  
 
 git push origin CSS  
+
+git pull origin main 
+git merge CSS
+git push origin main 
