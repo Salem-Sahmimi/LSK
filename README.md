@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Projet de Site Web Collaboratif
 
 ## Description
