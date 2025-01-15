@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Projet de Site Web Collaboratif
 
 ## Description
@@ -59,8 +58,3 @@ Chaque membre a enregistré les commandes Git utilisées tout au long du projet 
 commandes-KOK.txt
 commandes-lucie.txt
 commandes-SAHMIMI.txt
-=======
-# LSK
-notre projet GIT 
-
->>>>>>> 9155453 (note command lucie)
