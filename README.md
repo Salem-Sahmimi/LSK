@@ -10,7 +10,6 @@ Ce projet est un site web développé par une équipe de trois membres, chacun a
 - [Versioning Git](#versioning-git)
 - [Structure des Branches](#structure-des-branches)
 - [Journal des Commandes](#journal-des-commandes)
-- [Licence](#licence)
 
 ## Installation
 Pour cloner le dépôt et exécuter le projet localement, suivez ces instructions :
@@ -59,10 +58,3 @@ Chaque membre a enregistré les commandes Git utilisées tout au long du projet 
 commandes-jonathan.txt
 commandes-lucie.txt
 commandes-salem.txt
-Licence
-Ce projet est sous licence MIT. Vous pouvez consulter le fichier LICENSE pour plus de détails.
-
-go
-Copier le code
-
-Tu peux coller ce texte directement dans ton fichier `README.md` sur GitHub ou dans ton éditeur d
