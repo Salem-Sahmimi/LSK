@@ -1,0 +1,38 @@
+# Je me déplace dans le répertoire Documents pour cloner le répertoire public de Salem LSK:  
+
+- ls
+- cd Documents
+- ls
+- git clone https://github.com/Salem-Sahmimi/LSK
+- ls
+
+# Je me déplace ensuite dans ce répertoire:
+
+- cd LSK
+- ls
+
+# Je crée mon dossier html et mon fichier index.html:
+
+- mkdir html
+- touch index.html
+
+# Je déplace mon fichier index.hmtml dans mon dossier html:
+
+- mv index.html html
+
+# Je modifie mon fichier index.html:
+
+- nano index.html
+
+# Je crée ensuite une branche HTML et je me déplace dans celui-ci,
+# sans oublier de vérifier si je me suis bien déplacer.
+
+- git checkout -b HTML 
+- git branch -a
+
+# Je m'authentifie pour rajouter mon dossier dans le répertoire public LSK, dans la branche HTML.
+git config user.email "lucie.ly@gmail.com
+git config user.name "lylucie"
+git add .
+git commit -m "envoie du fichier html vide dans le répertoire LSK"
+git push origin HTML
