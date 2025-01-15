@@ -10,8 +10,19 @@ git config user.email "kojokojo0273@gmail.com"
 git config user.name "ofcoursed"
 git commit -m "p1 mobile fait"
 git push origin mobile
+
 touch KOK.txt
 nano KOK.txt
-git add KOK.txt
-git commit -m "Commandes effectué"
-git push
+git add .
+git commit -m "Sauvegarde des modiffs sur mobile"
+git push origin mobile
+
+
+git checkout main
+cd ..		(être dans l'arboresense LSK car j'étais dans LSK/mobile)
+git pull origin main 
+git merge mobile
+git push origin main 
+
+
+
