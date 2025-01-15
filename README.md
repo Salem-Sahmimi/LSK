@@ -15,8 +15,8 @@ Ce projet est un site web développé par une équipe de trois membres, chacun a
 Pour cloner le dépôt et exécuter le projet localement, suivez ces instructions :
 
 ```bash
-git clone https://github.com/nom-utilisateur/nom-du-projet.git
-cd nom-du-projet
+git clone https://github.com/nom-utilisateur/LSK.git
+cd LSK
 Ensuite, ouvrez le fichier index.html dans votre navigateur pour voir le site.
 ```
 ## Utilisation
